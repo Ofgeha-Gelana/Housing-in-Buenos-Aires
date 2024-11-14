@@ -1,0 +1,6 @@
+pandas
+matplotlib
+
+
+category_encoders
+numpy
