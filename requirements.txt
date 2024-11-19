@@ -4,3 +4,4 @@ matplotlib
 
 category_encoders
 numpy
+seaborn
